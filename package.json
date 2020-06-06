@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://xgirma.github.io/jscast",
   "dependencies": {
-    "gh-pages": "1.1.0",
+    "gh-pages": "1.2.0",
     "html2plaintext": "2.0.1",
     "moment": "2.21.0",
     "prop-types": "15.6.1",
